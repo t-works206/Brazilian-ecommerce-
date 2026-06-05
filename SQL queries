@@ -1,0 +1,17 @@
+SELECT
+    order_id,
+    customer_id,
+    customer_city,
+    customer_state,
+
+    TIMESTAMPDIFF(HOUR, order_approved_at, order_delivered_carrier_date) AS approval_to_carrier,
+
+    TIMESTAMPDIFF(HOUR, order_delivered_carrier_date, order_delivered_customer_date) AS carrier_to_customer,
+
+    TIMESTAMPDIFF(DAY, order_estimated_delivery_date, order_delivered_customer_date) AS delay_days,
+    
+    TIMESTAMPDIFF(DAY, order_delivered_customer_date, order_estimated_delivery_date) AS advanced_days,
+
+    (product_length_cm * product_width_cm * product_height_cm) AS product_volume
+
+FROM brazilian;
