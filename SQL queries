@@ -19,3 +19,22 @@ FROM brazilian;
 
 
 
+
+SELECT
+customer_unique_id,
+product_category_name,
+payment_type,
+product_category_name,
+day_of_purchase,
+year_of_purchase,
+seller_city,
+customer_city,
+
+(payment_value - (freight_value  + price)) AS profit
+
+FROM brazilian
+ORDER BY profit desc;
+
+
+
+
