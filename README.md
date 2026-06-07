@@ -43,3 +43,19 @@ Feature engineering for BI and visualization readiness
 Goal
 
 To build a structured analytical pipeline that supports data-driven decision making across customer behavior, operations, and revenue strategy.
+
+
+
+Final Insight:
+
+The analysis shows that consumer demand is relatively stable across time with mild seasonality, rather than being strongly driven by festivals or short-term 
+spikes. Purchasing behavior is consistent across months, indicating that demand is primarily need-based rather than event-driven, especially given the dominance 
+of utility, home, and essential product categories.
+
+From the supply side, seller performance does not degrade during hig volume months rather the delivery efficiency improves. This suggests that the platform is 
+operationally scalable and such efforts can be put in regions with weak logistics but high potential. Different regions have different logistical needs varying 
+between delivery time optimization and managemnt optimization to reduce inventory time of ordered products. 
+
+Festive products can be marketed more to be sold in the thrid quater of the year.
+
+
