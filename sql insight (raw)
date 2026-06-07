@@ -1,0 +1,714 @@
+varzea paulista	37	4.8919	Good
+hortolandia	353	6.8187	Good
+ferraz de vasconcelos	38	7.1579	Good
+ribeirao preto / sao paulo	40	7.1750	Good
+vicente de carvalho	227	7.2952	Good
+rio claro	116	7.3362	Good
+poa	175	7.6800	Good
+carazinho	61	7.7213	Good
+betim	313	7.7891	Good
+maua	485	8.1753	Good
+sao roque	98	8.3776	Good
+cornelio procopio	57	8.4035	Good
+cajamar	207	8.5459	Good
+cotia	221	8.6561	Good
+ipaussu	75	8.6933	Good
+contagem	188	8.7074	Good
+araras	46	8.8478	Good
+palhoca	39	9.0513	Good
+atibaia	615	9.0618	Good
+francisco beltrao	93	9.0645	Good
+novo horizonte	31	9.0968	Good
+canoas	162	9.1667	Good
+formiga	158	9.1709	Good
+botucatu	137	9.2263	Good
+ribeirao pires	236	9.4237	Good
+itapevi	75	9.4667	Good
+taboao da serra	54	9.4815	Good
+carapicuiba	218	9.4862	Good
+macae	44	9.5909	Good
+patos de minas	174	9.6034	Good
+mogi mirim	54	9.6111	Good
+parai	31	9.6129	Good
+sao jose dos pinhais	154	9.6429	Good
+santa barbara d'oeste	310	9.6516	Good
+sao bernardo do campo	1152	9.6736	Good
+ampere	31	9.6774	Good
+praia grande	1318	9.7041	Good
+bertioga	71	9.7183	Good
+valinhos	94	9.7340	Good
+itapecerica da serra	190	9.7895	Good
+sao caetano do sul	167	9.8383	Good
+caxias do sul	215	9.8512	Good
+mage	55	9.9091	Good
+nilopolis	49	9.9184	Good
+navegantes	136	9.9265	Good
+guarulhos	2011	9.9453	Good
+conselheiro lafaiete	56	9.9464	Good
+sao paulo - sp	106	9.9528	Good
+sete lagoas	277	9.9603	Good
+taubate	68	10.0147	Good
+salto	1374	10.0451	Good
+mogi guacu	226	10.0575	Good
+apucarana	132	10.1136	Good
+bento goncalves	34	10.1176	Good
+porto alegre	818	10.1186	Good
+diadema	191	10.1414	Good
+sorocaba	588	10.1599	Good
+birigui	136	10.1618	Good
+barueri	466	10.2167	Good
+presidente prudente	433	10.2240	Good
+sao paulo	28299	10.2408	Good
+santos	548	10.2518	Good
+santo andre	3015	10.2673	Good
+registro	76	10.2763	Good
+juiz de fora	122	10.2787	Good
+campo grande	43	10.2791	Good
+piracicaba	1985	10.3058	Good
+teresopolis	237	10.3165	Good
+bauru	187	10.3422	Good
+pedreira	728	10.3503	Good
+jundiai	265	10.3849	Good
+amparo	110	10.4091	Good
+novo hamburgo	149	10.4497	Good
+braganca paulista	117	10.4615	Good
+limeira	857	10.4912	Good
+ipatinga	37	10.5135	Good
+rio de janeiro	2373	10.5289	Good
+sp	38	10.5526	Good
+capivari	168	10.5536	Good
+santa barbara d´oeste	366	10.5820	Good
+pinhais	177	10.6102	Good
+brejao	41	10.6585	Good
+colombo	146	10.6644	Average
+blumenau	501	10.6866	Average
+lages	126	10.6984	Average
+jaboticabal	140	10.7071	Average
+borda da mata	542	10.7288	Average
+londrina	405	10.7333	Average
+rio do sul	211	10.7441	Average
+tres rios	159	10.7547	Average
+cachoeirinha	70	10.8000	Average
+mirandopolis	78	10.8590	Average
+campinas	1393	10.8622	Average
+toledo	41	10.8780	Average
+itajai	264	10.8826	Average
+assis	321	10.9097	Average
+osasco	597	10.9162	Average
+viamao	81	10.9259	Average
+nova iguacu	72	10.9583	Average
+andira-pr	52	10.9615	Average
+mogi das cruzes	411	10.9878	Average
+scao jose do rio pardo	55	11.0182	Average
+sao jose	171	11.0409	Average
+brusque	405	11.0914	Average
+mococa	38	11.1579	Average
+aparecida	50	11.1800	Average
+mineiros do tiete	62	11.2419	Average
+belo horizonte	2527	11.2422	Average
+mesquita	79	11.2658	Average
+votorantim	271	11.3321	Average
+santo angelo	61	11.3443	Average
+timbo	113	11.3628	Average
+coronel fabriciano	40	11.3750	Average
+serra negra	216	11.4028	Average
+divinopolis	136	11.4044	Average
+curitiba	3043	11.4177	Average
+echapora	67	11.4179	Average
+catanduva	46	11.4348	Average
+lajeado	66	11.5455	Average
+sao joao del rei	54	11.5556	Average
+brasilia	880	11.5727	Average
+nova friburgo	92	11.6413	Average
+tatui	63	11.6667	Average
+goiania	291	11.6770	Average
+fernandopolis	109	11.6789	Average
+s jose do rio preto	113	11.6814	Average
+morrinhos	41	11.6829	Average
+louveira	140	11.6929	Average
+cruzeiro	97	11.7113	Average
+sao pedro	37	11.7297	Average
+jaguariuna	67	11.8060	Average
+santana de parnaiba	81	11.8272	Average
+dois corregos	36	11.8333	Average
+queimados	65	11.8769	Average
+santa rita do sapucai	103	11.9126	Average
+recife	410	11.9171	Average
+sao carlos	157	11.9172	Average
+fazenda rio grande	73	11.9726	Average
+congonhas	42	11.9762	Average
+jau	453	11.9868	Average
+petropolis	851	12.0059	Average
+jales	109	12.0092	Average
+pompeia	32	12.0625	Average
+garca	119	12.1008	Average
+jacutinga	106	12.1038	Average
+campo mourao	55	12.1636	Average
+cariacica	237	12.1730	Average
+lencois paulista	107	12.1869	Average
+niteroi	80	12.2250	Average
+campo largo	78	12.2308	Average
+sumare	622	12.2524	Average
+tres coracoes	246	12.2683	Average
+araraquara	230	12.2696	Average
+natal	39	12.3077	Average
+americana	109	12.3211	Average
+lauro de freitas	428	12.3224	Average
+araguari	534	12.3296	Average
+mirassol	36	12.3333	Average
+florianopolis	242	12.4132	Average
+campo limpo paulista	1237	12.4196	Average
+gama	34	12.4412	Average
+paulinia	43	12.4419	Average
+sao joaquim da barra	67	12.4478	Average
+batatais	63	12.5238	Average
+itauna	264	12.5341	Average
+ibia	39	12.5385	Bad
+marilia	228	12.5877	Bad
+aracatuba	82	12.6463	Bad
+ilicinea	790	12.7544	Bad
+vendas@creditparts.com.br	38	12.7632	Bad
+sao joao de meriti	55	12.8000	Bad
+joinville	703	12.8037	Bad
+umuarama	198	12.8081	Bad
+vicosa	46	12.8478	Bad
+jacarei	958	12.8695	Bad
+sao jose dos campos	799	12.8861	Bad
+uberlandia	440	12.8886	Bad
+sao  paulo	56	12.8929	Bad
+sao goncalo	378	12.9233	Bad
+tabatinga	38	12.9474	Bad
+cascavel	542	12.9834	Bad
+porto ferreira	220	13.0318	Bad
+canoinhas	155	13.0452	Bad
+ibitinga	8060	13.0691	Bad
+jaragua do sul	217	13.0829	Bad
+aparecida de goiania	85	13.0941	Bad
+sao ludgero	118	13.1271	Bad
+volta redonda	161	13.1801	Bad
+cafelandia	42	13.1905	Bad
+penapolis	452	13.1969	Bad
+anapolis	34	13.2647	Bad
+riberao preto	268	13.2873	Bad
+sao sebastiao	46	13.3696	Bad
+pirituba	173	13.3815	Bad
+alfenas	67	13.4478	Bad
+tupa	85	13.4706	Bad
+rolandia	180	13.4889	Bad
+bebedouro	133	13.5263	Bad
+sinop	56	13.5357	Bad
+monte siao	302	13.5430	Bad
+montenegro	146	13.5959	Bad
+franca	651	13.7834	Bad
+jaguaruna	66	13.8182	Bad
+fronteira	47	13.8511	Bad
+maringa	2230	13.8570	Bad
+santa terezinha de itaipu	37	13.9189	Bad
+monteiro lobato	44	13.9318	Bad
+arapongas	138	13.9638	Bad
+dracena	245	13.9837	Bad
+icara	63	14.0000	Bad
+andradas	54	14.0000	Bad
+cuiaba	88	14.0909	Bad
+baependi	204	14.1569	Bad
+sao jose do rio preto	2640	14.1602	Bad
+ribeirao preto	2271	14.1986	Bad
+pocos de caldas	115	14.3043	Bad
+salvador	132	14.3106	Bad
+guariba	1178	14.3158	Bad
+itatiba	475	14.3579	Bad
+indaiatuba	299	14.3679	Bad
+ponte nova	102	14.3922	Bad
+guara	252	14.4484	Bad
+sarandi	184	14.5054	Bad
+suzano	87	14.7586	Bad
+uberaba	51	14.7647	Bad
+votuporanga	140	14.8786	Bad
+lagoa da prata	48	14.9792	Bad
+uba	235	15.2681	Bad
+pradopolis	164	15.3354	Bad
+laranjal paulista	263	15.3916	Bad
+fortaleza	51	15.4510	Bad
+barretos	58	15.6724	Bad
+loanda	48	15.8542	Bad
+portao	31	15.8710	Bad
+farroupilha	45	16.0667	Bad
+guaruja	66	16.1667	Bad
+teixeira soares	79	16.3291	Bad
+jussara	90	16.3667	Bad
+videira	308	16.6461	Bad
+sao luis	406	16.8473	Bad
+caucaia	34	17.1471	Bad
+claudio	130	17.3000	Bad
+criciuma	35	17.6571	Bad
+bombinhas	92	17.8587	Bad
+foz do iguacu	197	18.8173	Bad
+tubarao	35	19.1143	Bad
+balneario camboriu	31	19.9677	Bad
+congonhal	108	20.8241	Bad
+itaquaquecetuba	1736	20.8243	Bad
+mombuca	33	22.1212	Bad
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  aruja	77	5.4545	Good
+taboao da serra	335	6.0060	Good
+poa	105	6.2381	Good
+cotia	272	6.3235	Good
+santana de parnaiba	211	6.3507	Good
+franco da rocha	117	6.5043	Good
+osasco	860	6.5884	Good
+braganca paulista	163	6.6319	Good
+caieiras	105	6.6667	Good
+jaguariuna	80	6.6750	Good
+artur nogueira	50	6.6800	Good
+mogi das cruzes	472	6.6822	Good
+carapicuiba	377	6.6844	Good
+americana	262	6.7366	Good
+barueri	476	6.7647	Good
+piracicaba	409	6.8044	Good
+santa isabel	32	6.8125	Good
+itapevi	194	6.8196	Good
+santa barbara d'oeste	139	6.8633	Good
+itatiba	109	6.8899	Good
+mogi mirim	85	6.8941	Good
+santo andre	888	6.9966	Good
+jau	92	7.0109	Good
+sorocaba	705	7.0113	Good
+embu-guacu	73	7.0685	Good
+ferraz de vasconcelos	124	7.0887	Good
+jandira	100	7.1200	Good
+vargem grande paulista	50	7.1200	Good
+vinhedo	112	7.1429	Good
+sao paulo	17868	7.1478	Good
+suzano	270	7.1667	Good
+cajamar	118	7.1864	Good
+penapolis	48	7.1875	Good
+votorantim	107	7.2523	Good
+rio claro	188	7.3032	Good
+guarulhos	1348	7.3272	Good
+jales	33	7.3333	Good
+sao caetano do sul	303	7.3465	Good
+indaiatuba	332	7.3645	Good
+mairipora	85	7.3647	Good
+pedreira	51	7.3922	Good
+sao jose dos campos	780	7.4321	Good
+guaruja	272	7.4706	Good
+sao bernardo do campo	1075	7.5926	Good
+limeira	226	7.6372	Good
+ribeirao pires	118	7.6610	Good
+francisco morato	106	7.7170	Good
+valinhos	213	7.7277	Good
+itu	144	7.7639	Good
+capivari	33	7.8485	Good
+maua	349	7.8539	Good
+batatais	31	7.8710	Good
+catanduva	81	7.8889	Good
+jacarei	213	7.9484	Good
+jundiai	650	7.9677	Good
+embu das artes	170	8.0176	Good
+lencois paulista	45	8.0222	Good
+porto ferreira	32	8.0313	Good
+araraquara	176	8.0398	Good
+diadema	333	8.0450	Good
+itaquaquecetuba	180	8.0556	Good
+atibaia	211	8.0948	Good
+santa cruz do rio pardo	37	8.1081	Good
+itapeva	66	8.1515	Good
+santos	828	8.1812	Good
+paulinia	164	8.1829	Good
+sao roque	92	8.1957	Good
+bauru	293	8.3072	Good
+ituverava	32	8.4063	Good
+sao jose do rio preto	385	8.4442	Good
+salto	104	8.4808	Good
+matao	58	8.5345	Good
+campo largo	48	8.5625	Good
+cosmopolis	57	8.5789	Good
+pedro leopoldo	50	8.5800	Good
+nova odessa	43	8.5814	Good
+itapecerica da serra	102	8.5980	Good
+ribeirao preto	589	8.6333	Good
+fernandopolis	57	8.6667	Good
+ourinhos	96	8.7083	Good
+andradina	48	8.7083	Good
+sabara	44	8.7273	Good
+araras	114	8.7368	Good
+itarare	39	8.7436	Good
+cacapava	89	8.7640	Good
+sertaozinho	76	8.8158	Good
+mogi-guacu	102	8.8333	Good
+campinas	1686	8.8517	Good
+garca	34	8.8529	Good
+boituva	57	8.8596	Good
+sumare	213	8.9061	Good
+amparo	74	8.9189	Good
+franca	220	8.9318	Good
+guaira	55	8.9636	Good
+cubatao	87	9.0000	Good
+assis	103	9.0485	Good
+mirassol	31	9.0968	Good
+botucatu	113	9.1327	Good
+coronel fabriciano	45	9.1333	Good
+tambau	31	9.1613	Good
+mococa	39	9.1795	Good
+marilia	208	9.1875	Good
+tatui	83	9.1928	Good
+olimpia	40	9.2000	Good
+sao carlos	286	9.2168	Good
+monte alto	34	9.2353	Good
+pinhais	74	9.2973	Good
+aracatuba	164	9.3171	Good
+ibiuna	36	9.3611	Good
+francisco beltrao	55	9.3636	Good
+promissao	31	9.3871	Good
+taquaritinga	37	9.4054	Good
+formiga	34	9.4118	Good
+curitiba	1768	9.4723	Good
+joao monlevade	57	9.4737	Good
+varzea paulista	91	9.4945	Good
+itapetininga	93	9.4946	Good
+ilhabela	47	9.5106	Good
+leme	57	9.5263	Good
+presidente epitacio	32	9.5313	Good
+taubate	315	9.5429	Good
+pirapora	51	9.5882	Good
+cerquilho	37	9.5946	Good
+bebedouro	62	9.5968	Good
+cruzeiro	68	9.6471	Good
+tupa	82	9.6585	Good
+lorena	96	9.6875	Good
+registro	56	9.6964	Good
+ibirite	47	9.7021	Good
+votuporanga	76	9.7500	Good
+barretos	79	9.7595	Good
+lagoa santa	68	9.7941	Good
+birigui	91	9.8132	Good
+mongagua	48	9.8333	Good
+monte mor	43	9.8605	Good
+tremembe	43	9.8605	Good
+sao sebastiao	76	9.8684	Good
+praia grande	356	9.9017	Good
+orlandia	36	9.9167	Good
+castro	31	9.9355	Good
+itupeva	60	9.9667	Good
+sao vicente	185	10.0270	Good
+itauna	64	10.0469	Good
+divinopolis	161	10.0807	Good
+timoteo	60	10.0833	Average
+vespasiano	47	10.1064	Average
+cruz alta	48	10.1250	Average
+araguari	63	10.1270	Average
+telemaco borba	38	10.1316	Average
+queimados	67	10.1343	Average
+londrina	330	10.1697	Average
+uberaba	206	10.1748	Average
+contagem	495	10.1778	Average
+ipatinga	213	10.2019	Average
+cataguases	42	10.2143	Average
+belo horizonte	3134	10.2288	Average
+campo limpo paulista	50	10.2800	Average
+itapira	62	10.2903	Average
+campo bom	43	10.3488	Average
+muriae	76	10.3684	Average
+pindamonhangaba	105	10.4095	Average
+montes claros	242	10.4132	Average
+sao joao da boa vista	93	10.4301	Average
+manhuacu	81	10.4321	Average
+caraguatatuba	111	10.4414	Average
+jaboticabal	56	10.4643	Average
+alfenas	53	10.4906	Average
+presidente prudente	185	10.5081	Average
+itajuba	112	10.5179	Average
+pirassununga	73	10.5616	Average
+cascavel	188	10.5638	Average
+pato branco	66	10.5758	Average
+capao bonito	32	10.5938	Average
+caratinga	70	10.6143	Average
+santa fe do sul	34	10.6176	Average
+ribeirao das neves	118	10.6356	Average
+barbacena	92	10.6413	Average
+patrocinio	60	10.6667	Average
+vicosa	109	10.6789	Average
+sao lourenco	38	10.6842	Average
+guaratingueta	105	10.7143	Average
+bertioga	54	10.7222	Average
+apucarana	66	10.7273	Average
+itaguai	45	10.7333	Average
+itanhaem	100	10.7700	Average
+seropedica	40	10.7750	Average
+louveira	46	10.7826	Average
+uruguaiana	56	10.7857	Average
+extrema	50	10.8000	Average
+sao jose dos pinhais	159	10.8176	Average
+governador valadares	153	10.8235	Average
+varginha	98	10.8265	Average
+matinhos	33	10.8788	Average
+navegantes	35	10.8857	Average
+avare	73	10.9178	Average
+itabirito	33	10.9394	Average
+pouso alegre	148	10.9730	Average
+ponta grossa	163	10.9816	Average
+dracena	39	11.0000	Average
+bento goncalves	62	11.0484	Average
+paracatu	76	11.0526	Average
+hortolandia	156	11.0577	Average
+maringa	315	11.0667	Average
+paranagua	67	11.0746	Average
+uberlandia	424	11.1274	Average
+itapolis	34	11.1471	Average
+patos de minas	106	11.1604	Average
+ituiutaba	65	11.1846	Average
+cachoeira do sul	37	11.2432	Average
+araucaria	64	11.2500	Average
+mariana	34	11.2647	Average
+mafra	36	11.2778	Average
+adamantina	43	11.3023	Average
+passos	51	11.3137	Average
+sao jose do rio pardo	52	11.3462	Average
+colombo	79	11.4051	Average
+guaxupe	41	11.4146	Average
+sao sebastiao do paraiso	36	11.4722	Average
+guarapuava	76	11.4868	Average
+ubatuba	82	11.4878	Average
+betim	218	11.5138	Average
+pocos de caldas	150	11.5200	Average
+para de minas	41	11.5366	Average
+nova lima	105	11.5429	Average
+cianorte	46	11.5435	Average
+paranavai	57	11.5614	Average
+colatina	82	11.5732	Average
+vassouras	45	11.5778	Average
+ponte nova	47	11.6170	Average
+teofilo otoni	97	11.6392	Average
+blumenau	217	11.6452	Average
+uba	77	11.6623	Average
+itapema	48	11.6667	Average
+juiz de fora	481	11.7006	Average
+lins	59	11.7119	Average
+ouro branco	46	11.7174	Average
+santa luzia	117	11.8034	Average
+itumbiara	47	11.8298	Average
+unai	61	11.8361	Average
+bom despacho	43	11.8605	Average
+mage	138	11.8841	Average
+sao joaquim da barra	44	11.9773	Average
+sete lagoas	140	11.9857	Average
+sao bento do sul	46	12.0000	Average
+luziania	37	12.0270	Average
+brasilia	2374	12.0282	Average
+jaragua do sul	107	12.0374	Average
+conselheiro lafaiete	102	12.0784	Average
+janauba	31	12.0968	Average
+cachoeiro de itapemirim	140	12.1429	Average
+mineiros	31	12.1613	Average
+guaiba	36	12.1667	Average
+montenegro	35	12.1714	Average
+linhares	80	12.2250	Average
+gramado	32	12.3125	Average
+itabira	94	12.3511	Average
+osorio	41	12.3902	Average
+campo mourao	64	12.3906	Average
+mesquita	95	12.4211	Average
+tres rios	39	12.4359	Average
+bom jesus dos perdoes	31	12.4516	Average
+santo angelo	53	12.5094	Average
+curvelo	51	12.5098	Average
+alegrete	40	12.5250	Average
+nova serrana	55	12.5455	Average
+sao joao del rei	75	12.6533	Average
+barra do garcas	35	12.6571	Average
+cachoeirinha	85	12.6588	Average
+foz do iguacu	100	12.6900	Average
+tiete	43	12.6977	Average
+cacador	44	12.7273	Average
+almirante tamandare	39	12.7692	Average
+passo fundo	127	12.8031	Average
+gaspar	43	12.8140	Average
+novo hamburgo	148	12.8986	Average
+nilopolis	115	12.9826	Average
+araxa	93	13.0000	Average
+congonhas	35	13.0571	Average
+miguel pereira	32	13.0938	Average
+nova iguacu	495	13.1111	Average
+valparaiso de goias	44	13.1136	Average
+sao miguel do oeste	46	13.1304	Average
+toledo	78	13.1667	Average
+arapongas	36	13.1667	Average
+balneario camboriu	112	13.2232	Average
+gravatai	124	13.2823	Average
+ouro preto	68	13.3235	Average
+itajai	125	13.3280	Average
+capao da canoa	45	13.3333	Average
+rio do sul	42	13.3810	Bad
+vitoria	426	13.3920	Bad
+peruibe	63	13.3968	Bad
+brusque	65	13.4000	Bad
+cariacica	152	13.4079	Bad
+santa rosa	35	13.4286	Bad
+niteroi	1016	13.5837	Bad
+paracambi	36	13.6111	Bad
+aparecida de goiania	127	13.6378	Bad
+jatai	61	13.6885	Bad
+rio verde	87	13.7011	Bad
+sao jose	201	13.7114	Bad
+tres coracoes	52	13.7885	Bad
+santiago	36	13.8333	Bad
+petropolis	286	13.8811	Bad
+florianopolis	658	13.8815	Bad
+camboriu	33	13.9091	Bad
+rio de janeiro	7822	13.9136	Bad
+duque de caxias	301	13.9435	Bad
+sao leopoldo	121	13.9669	Bad
+campo grande	362	13.9807	Bad
+barra mansa	142	14.0563	Bad
+lavras	99	14.0909	Bad
+belford roxo	122	14.1475	Bad
+joinville	288	14.1736	Bad
+coromandel	33	14.1818	Bad
+eunapolis	45	14.2222	Bad
+barra do pirai	51	14.2353	Bad
+campos dos goytacazes	273	14.2454	Bad
+santa cruz do sul	83	14.2530	Bad
+goiania	812	14.2697	Bad
+criciuma	112	14.2857	Bad
+guarapari	75	14.4000	Bad
+tubarao	67	14.4478	Bad
+teresopolis	133	14.4511	Bad
+umuarama	43	14.4651	Bad
+alvorada	59	14.4746	Bad
+santa rita do sapucai	39	14.5385	Bad
+uniao da vitoria	49	14.5510	Bad
+palmas	144	14.5694	Bad
+ijui	80	14.6625	Bad
+sao pedro da aldeia	51	14.7647	Bad
+anapolis	128	14.7891	Bad
+erechim	62	14.8871	Bad
+marechal candido rondon	38	14.8947	Bad
+porto alegre	1589	14.9132	Bad
+tijucas	35	14.9143	Bad
+concordia	60	14.9667	Bad
+feira de santana	214	14.9953	Bad
+lajeado	58	15.0000	Bad
+vitoria da conquista	106	15.0283	Bad
+imbituba	33	15.0303	Bad
+sao mateus	51	15.0588	Bad
+dourados	74	15.1081	Bad
+jaboatao dos guararapes	141	15.1773	Bad
+caxias do sul	264	15.2083	Bad
+chapeco	127	15.2126	Bad
+santo antonio de jesus	33	15.3333	Bad
+marica	151	15.3444	Bad
+lages	100	15.3600	Bad
+xanxere	37	15.4324	Bad
+canoas	247	15.4453	Bad
+volta redonda	253	15.4901	Bad
+resende	138	15.4928	Bad
+pelotas	216	15.5370	Bad
+caruaru	86	15.5581	Bad
+garanhuns	38	15.5789	Bad
+angra dos reis	107	15.5981	Bad
+palhoca	112	15.5982	Bad
+itaborai	73	15.6986	Bad
+bage	62	15.7581	Bad
+rio grande	130	15.7615	Bad
+petrolina	63	15.7619	Bad
+sapucaia do sul	47	15.7660	Bad
+sao joao de meriti	167	15.8862	Bad
+rondonopolis	74	15.9459	Bad
+parnamirim	71	16.0141	Bad
+macae	264	16.0644	Bad
+caldas novas	42	16.0714	Bad
+serra	317	16.0726	Bad
+formosa	40	16.1500	Bad
+vila velha	379	16.2322	Bad
+caceres	31	16.2581	Bad
+lauro de freitas	85	16.3059	Bad
+corumba	33	16.3333	Bad
+japeri	46	16.4348	Bad
+araruama	89	16.5169	Bad
+santa maria	233	16.6781	Bad
+saquarema	52	16.9423	Bad
+cuiaba	295	16.9695	Bad
+valenca	70	17.0143	Bad
+catalao	40	17.0500	Bad
+esteio	44	17.0682	Bad
+recife	669	17.2825	Bad
+aracruz	44	17.3409	Bad
+campina grande	86	17.4419	Bad
+itabuna	67	17.4776	Bad
+cabo frio	156	17.5192	Bad
+videira	49	17.7143	Bad
+rio das ostras	150	17.7467	Bad
+paulista	53	17.7925	Bad
+itaqui	39	17.8974	Bad
+santo antonio de padua	36	17.9444	Bad
+paulo afonso	46	18.0435	Bad
+sao goncalo	443	18.0609	Bad
+barreiras	60	18.1667	Bad
+itaperuna	54	18.1667	Bad
+maracanau	38	18.2105	Bad
+viamao	86	18.2209	Bad
+porto velho	125	18.2320	Bad
+salvador	1435	18.2474	Bad
+mossoro	40	18.4000	Bad
+natal	247	18.4372	Bad
+nova friburgo	163	18.4479	Bad
+alagoinhas	46	18.5435	Bad
+caucaia	51	18.7059	Bad
+guanambi	41	18.7561	Bad
+rio branco	81	18.9012	Bad
+jequie	38	18.9211	Bad
+ilheus	88	19.0795	Bad
+viana	33	19.1212	Bad
+arraial do cabo	38	19.1316	Bad
+sinop	75	19.1467	Bad
+tres lagoas	49	19.2653	Bad
+varzea grande	49	19.3673	Bad
+fortaleza	720	19.5139	Bad
+porto seguro	53	19.5660	Bad
+aracaju	245	19.5918	Bad
+sao luis	384	19.6875	Bad
+joao pessoa	302	19.7417	Bad
+olinda	102	19.7647	Bad
+juazeiro do norte	37	19.8378	Bad
+teresina	304	19.9671	Bad
+camacari	70	20.2000	Bad
+camaragibe	38	20.3684	Bad
+belem	484	20.6694	Bad
+araguaina	39	20.9487	Bad
+luis eduardo magalhaes	43	21.1628	Bad
+imperatriz	44	21.3409	Bad
+sobral	35	22.2286	Bad
+ananindeua	97	22.2990	Bad
+juazeiro	47	22.7660	Bad
+arapiraca	33	23.7273	Bad
+parauapebas	34	24.4706	Bad
+maceio	258	24.6240	Bad
+manaus	158	25.5696	Bad
+boa vista	43	27.6512	Bad
+macapa	63	28.6349	Bad
+santarem	47	31.5319	Bad
