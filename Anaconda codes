@@ -1,0 +1,57 @@
+pip install pandas numpy sqlalchemy pymysql mysql-connector-python matplotlib seaborn jupyter
+
+
+
+
+
+
+
+from sqlalchemy import create_engine, text
+
+engine = create_engine("mysql+pymysql://root:********@localhost")
+conn = engine.connect()
+
+print("Database created")
+
+
+
+
+
+
+from sqlalchemy import create_engine
+
+engine = create_engine("mysql+pymysql://root:********@localhost/my_project")
+
+print("Connected to my_project")
+
+
+
+
+
+
+
+import pandas as pd
+
+df = pd.read_sql("SHOW TABLES", engine)
+print(df)
+
+
+
+
+
+import pandas as pd
+
+brazilian = pd.read_csv(r"C:\Users\Tarun\OneDrive\Documents\Brazilian dataset\Brazilian E-Commerce Public Dataset by Olist.csv")
+print(brazilian.head())
+
+
+
+
+
+
+df.to_sql(
+    name='brazilian',
+    con=engine,
+    if_exists='replace',
+    index=False
+)
