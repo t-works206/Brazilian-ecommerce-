@@ -1,8 +1,11 @@
 SELECT
     order_unique_id,
-    customer_unique_id,
+    customer__id,
     customer_city,
     customer_state,
+    seller_state,
+    seller_id,
+    product_category_name,
 
     TIMESTAMPDIFF(HOUR, order_approved_at, order_delivered_carrier_date) AS approval_to_carrier,
 
@@ -23,15 +26,17 @@ FROM brazilian;
 SELECT
 customer_unique_id,
 customer_id,
-product_category_name,
 payment_type,
 product_category_name,
 day_of_purchase,
 year_of_purchase,
 seller_city,
 customer_city,
+customer_state,
 
 (payment_value - (freight_value  + price)) AS profit
+
+sum(payment_value) AS revenue
 
 FROM brazilian
 ORDER BY profit desc;
