@@ -22,6 +22,7 @@ FROM brazilian;
 
 SELECT
 customer_unique_id,
+customer_id,
 product_category_name,
 payment_type,
 product_category_name,
@@ -34,6 +35,12 @@ customer_city,
 
 FROM brazilian
 ORDER BY profit desc;
+
+
+
+
+
+
 
 
 
