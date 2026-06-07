@@ -1,0 +1,49 @@
+avg approval to carrier = AVERAGE('time taken by metric'[approval_to_carrier])
+
+
+avg carrier to customer = AVERAGE('time taken by metric'[carrier_to_customer])
+
+
+Delay Time (Days) = 
+AVERAGEX(
+    'Brazilian E-Commerce Public Dataset by Olist',
+    DATEDIFF(
+        'Brazilian E-Commerce Public Dataset by Olist'[order_approved_at],
+        'Brazilian E-Commerce Public Dataset by Olist'[order_delivered_customer_date],
+        DAY
+    )
+)
+
+
+
+
+
+
+Total sales = DISTINCTCOUNT('Brazilian E-Commerce Public Dataset by Olist'[order_id])
+
+
+
+avg delivery time (2) = AVERAGE('customer city profiling'[avg_delivery_time])
+
+
+
+net revenue proxy = AVERAGE('net revenue proxy'[net_revenue_proxy])
+
+
+
+
+avg delay time = AVERAGE('seller city profiling'[avg_delivery_time])
+
+
+
+
+avg advance days = AVERAGE('time taken by metric'[advanced_days])
+
+
+
+avg delay days = AVERAGE('time taken by metric'[delay_days])
+
+
+
+
+no. of sellers = DISTINCTCOUNT('time taken by metric'[seller_id])
