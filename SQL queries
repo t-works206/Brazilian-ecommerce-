@@ -50,3 +50,48 @@ ORDER BY profit desc;
 
 
 
+WITH city_metrics AS (
+    SELECT
+        seller_city,
+        COUNT(order_id) AS total_orders,
+        AVG(TIMESTAMPDIFF(DAY, order_approved_at, order_delivered_customer_date)) AS avg_delivery_time
+    FROM brazilian
+    WHERE order_approved_at IS NOT NULL
+      AND order_delivered_customer_date IS NOT NULL
+    GROUP BY seller_city
+    HAVING COUNT(order_id) > 30
+),
+
+ranked AS (
+    SELECT
+        seller_city,
+        total_orders,
+        avg_delivery_time,
+
+        ROW_NUMBER() OVER (ORDER BY avg_delivery_time) AS rnk,
+        COUNT(*) OVER () AS total_rows
+
+    FROM city_metrics
+)
+
+SELECT
+    seller_city,
+    total_orders,
+    avg_delivery_time,
+
+    CASE
+        WHEN rnk <= total_rows * 0.33 THEN 'Good'
+        WHEN rnk <= total_rows * 0.66 THEN 'Average'
+        ELSE 'Bad'
+    END AS performance_segment
+
+FROM ranked;
+
+
+
+
+
+
+
+
+
